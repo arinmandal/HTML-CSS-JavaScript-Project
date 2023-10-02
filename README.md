@@ -1,3 +1,1 @@
-# HTML-CSS-JavaScript-Project
-All projects are created with HTML, CSS, and vanilla JavaScript.
-Hello test Linux.
+All projects are made with HTML, CSS, and JavaScript.
