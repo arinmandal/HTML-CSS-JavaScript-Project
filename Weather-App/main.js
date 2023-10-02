@@ -1,9 +1,9 @@
 // Import the 'dotenv' package
-const dotenv = require("dotenv");
+// const dotenv = require("dotenv");
 
 // Load the variables from the .env file
-dotenv.config();
-
+// dotenv.config();
+import {  } from "module";
 // Access the API key
 const apiKey = process.env.API_KEY;
 
